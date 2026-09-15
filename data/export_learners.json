@@ -1,0 +1,339 @@
+[
+  {
+    "learner_id": "learner_001",
+    "program_name": "Data & Intelligence Artificielle",
+    "cohort_name": "Promo Février 2026 Data",
+    "progress_percentage": 0.0,
+    "average_score": null,
+    "current_project_title": "Analyse exploratoire et nettoyage de données",
+    "current_project_description": "Exploration statistique approfondie et préparation d'un jeu de données complexe.",
+    "validated_projects_titles": [],
+    "competency_scores": []
+  },
+  {
+    "learner_id": "learner_002",
+    "program_name": "UI/UX Design",
+    "cohort_name": "Promo Mars 2026 UI/UX Design",
+    "progress_percentage": 40.0,
+    "average_score": 17.44,
+    "current_project_title": "Design System complet sur Figma",
+    "current_project_description": "Création d'un système de composants cohérent et accessible.",
+    "validated_projects_titles": [
+      "Architecture de l'information & Wireframes",
+      "Recherche utilisateur & Audit ergonomique"
+    ],
+    "competency_scores": [
+      {
+        "competency_name": "Research",
+        "average_score": 17.67,
+        "latest_level": "mastered"
+      },
+      {
+        "competency_name": "Design",
+        "average_score": 17.2,
+        "latest_level": "mastered"
+      }
+    ]
+  },
+  {
+    "learner_id": "learner_003",
+    "program_name": "UI/UX Design",
+    "cohort_name": "Promo Mars 2026 UI/UX Design",
+    "progress_percentage": 20.0,
+    "average_score": 15.8,
+    "current_project_title": "Architecture de l'information & Wireframes",
+    "current_project_description": "Définition de l'arborescence et prototypage basse fidélité.",
+    "validated_projects_titles": [
+      "Recherche utilisateur & Audit ergonomique"
+    ],
+    "competency_scores": [
+      {
+        "competency_name": "Research",
+        "average_score": 16.7,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "Design",
+        "average_score": 14.0,
+        "latest_level": "acquired"
+      }
+    ]
+  },
+  {
+    "learner_id": "learner_004",
+    "program_name": "Développement Web Fullstack (JS)",
+    "cohort_name": "Promo Octobre 2026 Fullstack",
+    "progress_percentage": 0.0,
+    "average_score": null,
+    "current_project_title": "Site vitrine responsive",
+    "current_project_description": "Conception et intégration d'un site vitrine moderne et responsive.",
+    "validated_projects_titles": [],
+    "competency_scores": []
+  },
+  {
+    "learner_id": "learner_005",
+    "program_name": "Développement Web Fullstack (JS)",
+    "cohort_name": "Promo Janvier 2025 Fullstack",
+    "progress_percentage": 0.0,
+    "average_score": null,
+    "current_project_title": "Site vitrine responsive",
+    "current_project_description": "Conception et intégration d'un site vitrine moderne et responsive.",
+    "validated_projects_titles": [],
+    "competency_scores": []
+  },
+  {
+    "learner_id": "learner_006",
+    "program_name": "Data & Intelligence Artificielle",
+    "cohort_name": "Promo Février 2026 Data",
+    "progress_percentage": 40.0,
+    "average_score": 17.88,
+    "current_project_title": "Pipeline d'ingestion & API de prédiction FastAPI",
+    "current_project_description": "Mise en production d'un modèle via une API REST rapide et documentée.",
+    "validated_projects_titles": [
+      "Modélisation Machine Learning supervisée",
+      "Analyse exploratoire et nettoyage de données"
+    ],
+    "competency_scores": [
+      {
+        "competency_name": "Data",
+        "average_score": 17.44,
+        "latest_level": "mastered"
+      },
+      {
+        "competency_name": "Software",
+        "average_score": 18.6,
+        "latest_level": "mastered"
+      }
+    ]
+  },
+  {
+    "learner_id": "learner_007",
+    "program_name": "Développement Web Fullstack (JS)",
+    "cohort_name": "Promo Janvier 2025 Fullstack",
+    "progress_percentage": 100.0,
+    "average_score": 15.47,
+    "current_project_title": null,
+    "current_project_description": null,
+    "validated_projects_titles": [
+      "Pipeline CI/CD & Déploiement Cloud",
+      "Application Full Stack React & Node.js",
+      "Authentification sécurisée JWT & RBAC",
+      "API REST & Base de données PostgreSQL",
+      "Site vitrine responsive"
+    ],
+    "competency_scores": [
+      {
+        "competency_name": "Design",
+        "average_score": 15.6,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "Frontend",
+        "average_score": 16.3,
+        "latest_level": "mastered"
+      },
+      {
+        "competency_name": "Software",
+        "average_score": 14.8,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "Backend",
+        "average_score": 16.1,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "DevOps",
+        "average_score": 15.03,
+        "latest_level": "acquired"
+      }
+    ]
+  },
+  {
+    "learner_id": "learner_008",
+    "program_name": "Data & Intelligence Artificielle",
+    "cohort_name": "Promo Février 2026 Data",
+    "progress_percentage": 60.0,
+    "average_score": 14.8,
+    "current_project_title": "Tableau de bord décisionnel interactif",
+    "current_project_description": "Création d'un dashboard de pilotage pour les décideurs métiers.",
+    "validated_projects_titles": [
+      "Pipeline d'ingestion & API de prédiction FastAPI",
+      "Modélisation Machine Learning supervisée",
+      "Analyse exploratoire et nettoyage de données"
+    ],
+    "competency_scores": [
+      {
+        "competency_name": "Data",
+        "average_score": 14.28,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "Software",
+        "average_score": 15.25,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "DevOps",
+        "average_score": 15.6,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "Backend",
+        "average_score": 14.0,
+        "latest_level": "acquired"
+      }
+    ]
+  },
+  {
+    "learner_id": "learner_009",
+    "program_name": "Développement Web Fullstack (JS)",
+    "cohort_name": "Promo Octobre 2026 Fullstack",
+    "progress_percentage": 0.0,
+    "average_score": null,
+    "current_project_title": "Site vitrine responsive",
+    "current_project_description": "Conception et intégration d'un site vitrine moderne et responsive.",
+    "validated_projects_titles": [],
+    "competency_scores": []
+  },
+  {
+    "learner_id": "learner_010",
+    "program_name": "Développement Web Fullstack (JS)",
+    "cohort_name": "Promo Février 2026 Fullstack",
+    "progress_percentage": 40.0,
+    "average_score": 14.9,
+    "current_project_title": "Authentification sécurisée JWT & RBAC",
+    "current_project_description": "Mise en place d'un système d'authentification robuste avec rôles.",
+    "validated_projects_titles": [
+      "API REST & Base de données PostgreSQL",
+      "Site vitrine responsive"
+    ],
+    "competency_scores": [
+      {
+        "competency_name": "Design",
+        "average_score": 15.8,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "Frontend",
+        "average_score": 15.0,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "Software",
+        "average_score": 15.2,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "Backend",
+        "average_score": 14.5,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "DevOps",
+        "average_score": 14.0,
+        "latest_level": "acquired"
+      }
+    ]
+  },
+  {
+    "learner_id": "learner_011",
+    "program_name": "Développement Web Fullstack (JS)",
+    "cohort_name": "Promo Février 2026 Fullstack",
+    "progress_percentage": 40.0,
+    "average_score": 14.7,
+    "current_project_title": "Authentification sécurisée JWT & RBAC",
+    "current_project_description": "Mise en place d'un système d'authentification robuste avec rôles.",
+    "validated_projects_titles": [
+      "API REST & Base de données PostgreSQL",
+      "Site vitrine responsive"
+    ],
+    "competency_scores": [
+      {
+        "competency_name": "Design",
+        "average_score": 14.0,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "Frontend",
+        "average_score": 14.9,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "Software",
+        "average_score": 14.7,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "Backend",
+        "average_score": 15.0,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "DevOps",
+        "average_score": 14.4,
+        "latest_level": "acquired"
+      }
+    ]
+  },
+  {
+    "learner_id": "learner_012",
+    "program_name": "Développement Web Fullstack (JS)",
+    "cohort_name": "Promo Février 2026 Fullstack",
+    "progress_percentage": 0.0,
+    "average_score": null,
+    "current_project_title": "Site vitrine responsive",
+    "current_project_description": "Conception et intégration d'un site vitrine moderne et responsive.",
+    "validated_projects_titles": [],
+    "competency_scores": []
+  },
+  {
+    "learner_id": "learner_013",
+    "program_name": "Data & Intelligence Artificielle",
+    "cohort_name": "Promo Février 2026 Data",
+    "progress_percentage": 40.0,
+    "average_score": 14.57,
+    "current_project_title": "Pipeline d'ingestion & API de prédiction FastAPI",
+    "current_project_description": "Mise en production d'un modèle via une API REST rapide et documentée.",
+    "validated_projects_titles": [
+      "Modélisation Machine Learning supervisée",
+      "Analyse exploratoire et nettoyage de données"
+    ],
+    "competency_scores": [
+      {
+        "competency_name": "Data",
+        "average_score": 14.88,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "Software",
+        "average_score": 14.07,
+        "latest_level": "acquired"
+      }
+    ]
+  },
+  {
+    "learner_id": "learner_014",
+    "program_name": "Data & Intelligence Artificielle",
+    "cohort_name": "Promo Février 2026 Data",
+    "progress_percentage": 20.0,
+    "average_score": 14.85,
+    "current_project_title": "Modélisation Machine Learning supervisée",
+    "current_project_description": "Entraînement, optimisation et évaluation de modèles de classification/régression.",
+    "validated_projects_titles": [
+      "Analyse exploratoire et nettoyage de données"
+    ],
+    "competency_scores": [
+      {
+        "competency_name": "Data",
+        "average_score": 15.0,
+        "latest_level": "acquired"
+      },
+      {
+        "competency_name": "Software",
+        "average_score": 14.7,
+        "latest_level": "acquired"
+      }
+    ]
+  }
+]

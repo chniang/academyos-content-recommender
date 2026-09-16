@@ -6,8 +6,12 @@ import numpy as np
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
+from build_catalog import build_catalog
 
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
+
+if not os.path.exists("data/coursera_catalog.csv"):
+    build_catalog()
 
 catalog = pd.read_csv("data/coursera_catalog.csv")
 learners = json.load(open("data/export_learners.json", encoding="utf-8"))

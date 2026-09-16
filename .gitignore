@@ -33,4 +33,3 @@ Thumbs.db
 
 # Data générée
 data/coursera_catalog.csv
-data/catalog_embeddings.npy
